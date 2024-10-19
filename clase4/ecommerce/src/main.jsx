@@ -1,8 +1,6 @@
-import { StrictMode } from 'react'
+import App from "./App";
 import { createRoot } from 'react-dom/client'
-
-import App from './App.jsx'
-//import App from './AppBootstrap.jsx'
+import { StrictMode } from 'react'
 
 createRoot(document.getElementById('root')).render(
     <StrictMode>

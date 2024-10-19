@@ -1,0 +1,44 @@
+header {
+    width: 100%;
+    height: 200px;
+
+    nav {
+        width: 100%;
+        height: 200px;
+        background-color: rgb(39, 38, 41);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        h1 {
+            color: aliceblue;
+            padding-left: 30px;
+        }
+
+        ul {
+            display: flex;
+
+            li {
+                list-style: none;
+                padding: 0 15px;
+
+                a {
+                    text-decoration: none;
+                    color: aliceblue;
+                }
+            }
+        }
+
+        .cart-widget {
+            padding-right: 30px;
+            font-size: 30px;
+            color: aliceblue;
+            p{
+                font-size: 20px;
+            }
+        }
+    }
+    .item-list-container{
+        font-size: 20px;
+    }
+}

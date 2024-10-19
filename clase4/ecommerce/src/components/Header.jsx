@@ -1,12 +1,15 @@
+import NavBar from "./headerComponets/NavBar";
+import ItemListContainer from "./headerComponets/ItemListContainer";
 
-import Navbar from "./NavBar"
+
 
 function Header (){
     return(
         <header>
-            
-            <Navbar />
+            <NavBar />
+            <ItemListContainer greeting="Bienvenidos a nuestra tienda"/>
         </header>
     )
 }
+
 export default  Header;
