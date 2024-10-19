@@ -1,7 +1,7 @@
 function Title() {
     return (
         <>
-            <h1>Tienda Coder</h1>
+            <h1>Sobre la Silla</h1>
         </>
     )
 }
