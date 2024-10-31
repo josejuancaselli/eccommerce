@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 function ItemListContainer ({greeting}){
     return (
         <div className="item-list-container">

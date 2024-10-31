@@ -1,4 +1,4 @@
-import NavBar from "./headerComponets/NavBar";
+import NavBar from "./HeaderComponents/NavBar";
 
 
 

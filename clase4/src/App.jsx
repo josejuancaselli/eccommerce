@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import "./scss/styles.scss"
+
 import ItemListContainer from "./components/ItemListContainer";
 
 
